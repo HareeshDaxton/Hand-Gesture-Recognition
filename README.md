@@ -5,7 +5,10 @@ A real-time **Hand Gesture Recognition System** for detecting and classifying **
 This project allows you to collect gesture images, process and extract hand landmark data, train a model, and run real-time sign language detection using your webcam.
 
 ---
+# Demo video -  https://lnkd.in/p/gkkskVBD
+---
 
+---
 ## 📚 Features
 - Real-time gesture recognition using webcam
 - Single and dual hand detection
